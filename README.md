@@ -16,6 +16,6 @@ A Mario-Kart-esque circuit racing game prototype. Written in C# with Unity. Feat
 https://github.com/asantmier/Awesome-Racing-Portfolio
 
 ## Temple Raider
-A short adventure experience to claim the treasure of an ancient temple. Written in C# with Unity; design as part of a visual design class with an emphasis on exploration of space. Features large level design, animation, and some amateur 3D modeling.
+A short adventure experience to claim the treasure of an ancient temple. Written in C# with Unity; design as part of a visual design class with an emphasis on exploration of space. Features large level design, animation, and some amateur 3D modeling and rigging.
 
 https://github.com/asantmier/Temple-Raider
