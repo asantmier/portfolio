@@ -1,5 +1,5 @@
+# View my [portfolio website now](https://asantmier.github.io/)!
 Hi, and welcome to my GitHub. Below are links to public repositories of some of the games I've made. You can find information about them, images, and videos in their readmes.
-(Actual website coming soon)
 
 ## Tuna Summoner
 A turn based action/adventure game. Written in C with no engine; designed for the Game Boy Advance.
